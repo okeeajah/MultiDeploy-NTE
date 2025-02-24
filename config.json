@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Somnia Chain",
+    "CHAIN_ID": 50311,
+    "RPC_URL": "https://dream-rpc.somnia.network",
+    "CONTRACT_PATH": "Greeter.sol",
+    "CONSTRUCTOR_ARGS": ["Greeter.sol"]
+  },
+  {
+    "name": "Rome Chain",
+    "CHAIN_ID": 200018,
+    "RPC_URL": "https://rome.testnet.romeprotocol.xyz",
+    "CONTRACT_PATH": "HelloWorld.sol",
+    "CONSTRUCTOR_ARGS": []
+  }
+]
