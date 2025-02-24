@@ -10,7 +10,7 @@ Multi Deploy Smart contract By NT-Exhaust
 
 ### 1. Clone repository
 ```sh
-git clone https://github.com/yourusername/MultiDeploy-NTE.git
+git clone https://github.com/okeeajah/MultiDeploy-NTE.git
 cd MultiDeploy-NTE
 ```
 
